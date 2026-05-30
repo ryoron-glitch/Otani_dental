@@ -1,0 +1,36 @@
+  
+<!DOCTYPE html>  
+<html lang="ja">  
+<head>  
+    <meta charset="UTF-8">  
+    <title>こども向けページ｜大谷歯科クリニック</title>  
+    <meta name="viewport" content="width=device-width, initial-scale=1">  
+    <link rel="stylesheet" href="css/style.css">  
+</head>  
+  
+<body>  
+  
+<header class="header">  
+    <h1>こどもページ</h1>  
+</header>  
+  
+<section class="features">  
+    <h2>はじめての はいしゃさんへ ようこそ！</h2>  
+    <p>だいじょうぶ。いたくないように、ゆっくり しんさつするよ。</p>  
+  
+    <h3>なにをするの？</h3>  
+    <ul style="text-align:left; max-width:400px; margin:auto;">  
+        <li>おくちのなかを みるよ</li>  
+        <li>むしばが ないか チェックするよ</li>  
+        <li>きれいに おそうじするよ</li>  
+    </ul>  
+  
+    <img src="img/kids.png" style="width:150px; margin-top:20px;">  
+</section>  
+  
+<footer class="footer">  
+    <p>© 大谷歯科クリニック</p>  
+</footer>  
+  
+</body>  
+</html>  

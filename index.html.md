@@ -1,0 +1,55 @@
+<!DOCTYPE html>  
+<html lang="ja">  
+<head>  
+    <meta charset="UTF-8">  
+    <title>大谷歯科クリニック｜家族で通える歯医者さん</title>  
+    <meta name="viewport" content="width=device-width, initial-scale=1">  
+    <link rel="stylesheet" href="css/style.css">  
+</head>  
+  
+<body>  
+  
+<header class="header">  
+    <h1>大谷歯科クリニック</h1>  
+    <nav>  
+        <a href="index.html">ホーム</a>  
+        <a href="access.html">アクセス</a>  
+        <a href="kids.html">こどもページ</a>  
+        <a href="https://forms.gle/xxxx">予約</a>  
+    </nav>  
+</header>  
+  
+<section class="hero">  
+    <h2>家族みんなが安心して通える歯医者さん</h2>  
+    <p>やさしい治療と、こどもにも怖くない雰囲気づくり。</p>  
+    <a class="btn" href="https://forms.gle/xxxx">Web予約はこちら</a>  
+</section>  
+  
+<section class="features">  
+    <h2>当院の特徴</h2>  
+  
+    <div class="feature-box">  
+        <img src="img/family1.png">  
+        <h3>こどもにやさしい</h3>  
+        <p>怖くない説明と、やさしい治療を心がけています。</p>  
+    </div>  
+  
+    <div class="feature-box">  
+        <img src="img/family2.png">  
+        <h3>家族で通いやすい</h3>  
+        <p>ベビーカーOK、家族で来院しやすい環境です。</p>  
+    </div>  
+  
+    <div class="feature-box">  
+        <img src="img/family3.png">  
+        <h3>丁寧なカウンセリング</h3>  
+        <p>初めての方にもわかりやすく説明します。</p>  
+    </div>  
+</section>  
+  
+<footer class="footer">  
+    <p>© 大谷歯科クリニック</p>  
+</footer>  
+  
+</body>  
+</html>  
